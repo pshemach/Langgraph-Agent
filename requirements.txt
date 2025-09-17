@@ -1,0 +1,13 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq
+langchain-openai
+langchain-tavily
+langchain_community
+chromadb
+langchain_chroma
+pypdf
+docx2txt
+unstructured
