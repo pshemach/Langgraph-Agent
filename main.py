@@ -1,6 +1,5 @@
-def main():
-    print("Hello from langgraph!")
+from src.llms.groq_llm import GroqLlm
 
+llm = GroqLlm().get_llm()
 
-if __name__ == "__main__":
-    main()
+print(llm.invoke("Hi"))
